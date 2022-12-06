@@ -1,4 +1,4 @@
-//alert("hi");
+
 function func(){
     var randomnumber1=Math.floor(Math.random()*6)+1;
     var randomnumber2=Math.floor(Math.random()*6)+1;
